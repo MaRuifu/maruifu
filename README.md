@@ -34,10 +34,25 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=maruifu&theme=redical">
+<!-- programming langs i work-->
+<p align="center">
+  <img src="https://icongr.am/devicon/ruby-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/ubuntu-plain.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/gitlab-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/python-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/vuejs-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/react-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/electron-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/java-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/go-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/github-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/nginx-original.svg" width="25px" height="25px"/>
 </p>
+
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 - 🔭 &nbsp; 大家好，我是小马哥。
