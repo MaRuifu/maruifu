@@ -91,8 +91,7 @@ Here are some ideas to get you started:
 </table>
 
 <p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=maruifu&theme=tokyonight" width="45%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=maruifu&theme=tokyonight" width="50%" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=maruifu&theme=tokyonight" width="100%">
 </p>
 
 <br><br><br><br>
